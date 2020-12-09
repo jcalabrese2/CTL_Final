@@ -2,14 +2,13 @@
 
 First, I will give an overview of what I am aiming to accomplish. Then, I will go item by item on the final project checklist to ensure all requirements have been met. 
 
-General Overview:
+## General Overview:
 
 The original goal of this project was to automate the "Drop LLC" process during real estate transactions in Cuyahoga County, Ohio. As we spoke in class this was an ambitious scope and after getting my hands dirty I decided to narrow to automating the following three documents: (1) Purchase and Sale Agreement (2) Mortgage (3) Promissory Note. 
 
-Check list:
+## Checklist:
 
 (1) Five minute intro/pitch with slide deck (described below under Product) to be given during the week 8 session. 
-
 
 (2)Feedback from user testing (e.g., user feedback forms, email impressions, etc.). Note: this feedback is more expansive than the partner letter below.
 
