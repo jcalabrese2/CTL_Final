@@ -4,7 +4,7 @@ First, I will give an overview of what I am aiming to accomplish. Then, I will g
 
 ## General Overview:
 
-The original goal of this project was to automate the "Drop LLC" process during real estate transactions in Cuyahoga County, Ohio. As we spoke in class this was an ambitious scope and after getting my hands dirty I decided to narrow to automating the following three documents: (1) Purchase and Sale Agreement (2) Mortgage (3) Promissory Note. 
+The original goal of this project was to automate the "Drop LLC" process during real estate transactions in Cuyahoga County, Ohio. As we spoke in class this was an ambitious scope and after getting my hands dirty I decided to narrow to automating the purchase and sale agreement only. 
 
 ## Checklist:
 
