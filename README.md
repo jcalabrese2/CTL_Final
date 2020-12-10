@@ -9,7 +9,7 @@ The original goal of this project was to automate the "Drop LLC" process during 
 ## Checklist:
 
 (1) Five minute intro/pitch with slide deck (described below under Product) to be given during the week 8 session. 
-https://jcalabrese2.github.io/CTL_Final/CTL%20-%20Final%20Project.pdf. COMPLETE
+[Intro Presentation](https://jcalabrese2.github.io/CTL_Final/CTL%20-%20Final%20Project.pdf). COMPLETE
 
 (2)Feedback from user testing (e.g., user feedback forms, email impressions, etc.). Note: this feedback is more expansive than the partner letter below.
 
