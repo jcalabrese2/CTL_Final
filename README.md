@@ -23,6 +23,8 @@ The original goal of this project was to automate the "Drop LLC" process during 
 (5)Letter/email from your partner expressing their level of satisfaction with the product and plans for its continued upkeep. 
 
 
-(6)Project Biography on Github, formatted either as a Markdown file or as a document served from a GitHub Page (e.g., HTML or PDF). (described below under Product) This could easily be your repo’s README file. NOTE: I should be able to find everything I need to grade your project by reading this document be it through links or reference. ## COMPLETE
+(6)Project Biography on Github, formatted either as a Markdown file or as a document served from a GitHub Page (e.g., HTML or PDF). (described below under Product) This could easily be your repo’s README file. NOTE: I should be able to find everything I need to grade your project by reading this document be it through links or reference. 
+## Complete
 
-(7)Your project title and links to your repo and biography recorded here. ## COMPLETE
+(7)Your project title and links to your repo and biography recorded here. 
+## Complete
