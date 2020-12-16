@@ -1,13 +1,13 @@
-## This is my final project biography. 
+## Welcome to my Final Project Biography
 
 First, I will give an overview of what my project is looking to accomplish. 
 Then, I will go item by item on the final project checklist to ensure all requirements have been met. 
 
-## General Overview:
+## General Overview
 
 The original goal of this project was to automate the "Drop LLC" process during real estate transactions in Cuyahoga County, Ohio. As we spoke in class this was an ambitious scope and after getting my hands dirty I decided to narrow to automating the purchase and sale agreement only. Before starting any development I had to get more familiar with the component pieces of a purchase and sale agreement. I reviewed some past transactions and consolidated several elements into one standard contract. From there I had to identify the variables in the contract (Parcel, seller, price etc). I made some design decisions on what was a true variable and what was not (For example the industry custom on how people normally split title charges etc in 4.05). This also simplified the first version so I can have a working product for Eric. 
 
-## Checklist:
+## Checklist
 
 (1) Five minute [intro/pitch](https://jcalabrese2.github.io/Calabrese_CTL_Final/CTL%20-%20Final%20Project.pdf) with slide deck (described below under Product) to be given during the week 8 session. 
 
