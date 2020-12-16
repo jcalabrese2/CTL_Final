@@ -15,9 +15,7 @@ The original goal of this project was to automate the "Drop LLC" process during 
 
 (3) [Solution documentation](https://jcalabrese2.github.io/Calabrese_CTL_Final/CTL%20-%20Cle_P_S_User%20Documentation%20.pdf) for all user types (described below under Product).
 
-(4) Your final technical solution, including source code and final executable(s) when applicable (e.g., python code or QnA interview). This should be shared via a GitHub repo. 
-[Google Form](https://forms.gle/ykVAaQRyJHjviGhS7)
-[Community Lawyer Process](https://jcalabrese2.app.law/cleps?access_key=VHUGh7ffgIfhX46g7Sud9ubua)
+(4) Your final technical solution, including source code and final executable(s) when applicable (e.g., python code or QnA interview). This should be shared via a GitHub repo. There are two pieces of my first version output. First, the [Google Form](https://forms.gle/ykVAaQRyJHjviGhS7) to enter in the required information. Second the [Community Lawyer Process](https://jcalabrese2.app.law/cleps?access_key=VHUGh7ffgIfhX46g7Sud9ubua) that prepares a standard purchase and sale agreement. 
 
 (5) [Letter/email](https://jcalabrese2.github.io/Calabrese_CTL_Final/User%20Feedback%20&%20Satisfaction.pdf) from your partner expressing their level of satisfaction with the product and plans for its continued upkeep. 
 
