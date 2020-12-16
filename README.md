@@ -11,7 +11,7 @@ The original goal of this project was to automate the "Drop LLC" process during 
 
 (1) Five minute [intro/pitch](https://jcalabrese2.github.io/Calabrese_CTL_Final/CTL%20-%20Final%20Project.pdf) with slide deck (described below under Product) to be given during the week 8 session. 
 
-(2)[Feedback](https://jcalabrese2.github.io/Calabrese_CTL_Final/User%20Feedback%20&%20Satisfaction.pdf) from user testing (e.g., user feedback forms, email impressions, etc.). Note: this feedback is more expansive than the partner letter below.
+(2) [Feedback](https://jcalabrese2.github.io/Calabrese_CTL_Final/User%20Feedback%20&%20Satisfaction.pdf) from user testing (e.g., user feedback forms, email impressions, etc.). Note: this feedback is more expansive than the partner letter below.
 
 (3) [Solution documentation](https://jcalabrese2.github.io/Calabrese_CTL_Final/CTL%20-%20Cle_P_S_User%20Documentation%20.pdf) for all user types (described below under Product).
 
@@ -19,11 +19,11 @@ The original goal of this project was to automate the "Drop LLC" process during 
 [Google Form](https://forms.gle/ykVAaQRyJHjviGhS7)
 [Community Lawyer Process](https://jcalabrese2.app.law/cleps?access_key=VHUGh7ffgIfhX46g7Sud9ubua)
 
-(5)[Letter/email](https://jcalabrese2.github.io/Calabrese_CTL_Final/User%20Feedback%20&%20Satisfaction.pdf) from your partner expressing their level of satisfaction with the product and plans for its continued upkeep. 
+(5) [Letter/email](https://jcalabrese2.github.io/Calabrese_CTL_Final/User%20Feedback%20&%20Satisfaction.pdf) from your partner expressing their level of satisfaction with the product and plans for its continued upkeep. 
 
-(6)Project Biography on Github, formatted either as a Markdown file or as a document served from a GitHub Page (e.g., HTML or PDF). (described below under Product) This could easily be your repo’s README file. NOTE: I should be able to find everything I need to grade your project by reading this document be it through links or reference. Complete
+(6) Project Biography on Github, formatted either as a Markdown file or as a document served from a GitHub Page (e.g., HTML or PDF). (described below under Product) This could easily be your repo’s README file. NOTE: I should be able to find everything I need to grade your project by reading this document be it through links or reference. Complete
 
-(7)Your project title and links to your repo and biography recorded here. Complete
+(7) Your project title and links to your repo and biography recorded here. Complete
 
 Thank you,
 Jeffrey Calabrese
