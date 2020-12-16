@@ -11,7 +11,7 @@ The original goal of this project was to automate the "Drop LLC" process during 
 (1) Five minute [intro/pitch](https://jcalabrese2.github.io/Calabrese_CTL_Final/CTL%20-%20Final%20Project.pdf) with slide deck (described below under Product) to be given during the week 8 session. 
 
 
-(2)[Feedback] (https://jcalabrese2.github.io/Calabrese_CTL_Final/User Feedback & Satisfaction.pdf) from user testing (e.g., user feedback forms, email impressions, etc.). Note: this feedback is more expansive than the partner letter below.
+(2)[Feedback] (https://jcalabrese2.github.io/Calabrese_CTL_Final/User%20Feedback%20&%20Satisfaction.pdf) from user testing (e.g., user feedback forms, email impressions, etc.). Note: this feedback is more expansive than the partner letter below.
 
 
 (3) Solution documentation for all user types (described below under Product).
