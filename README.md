@@ -5,8 +5,7 @@ Then, I will go item by item on the final project checklist to ensure all requir
 
 ## General Overview:
 
-The original goal of this project was to automate the "Drop LLC" process during real estate transactions in Cuyahoga County, Ohio. 
-As we spoke in class this was an ambitious scope and after getting my hands dirty I decided to narrow to automating the purchase and sale agreement only. 
+The original goal of this project was to automate the "Drop LLC" process during real estate transactions in Cuyahoga County, Ohio. As we spoke in class this was an ambitious scope and after getting my hands dirty I decided to narrow to automating the purchase and sale agreement only. Before starting any development I had to get more familiar with the component pieces of a purchase and sale agreement. I review some past transactions and consolidated several elements into one standard contract. From there I had to identify the variables in the contract (Parcel, seller, price etc). I had to make some design decisions what were true variables based on industry custom (how people normally split title charges etc in 4.05). This also simplified the first version so I can have a working product for Eric. 
 
 ## Checklist:
 
