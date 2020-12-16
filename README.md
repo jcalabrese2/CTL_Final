@@ -3,8 +3,6 @@
 ## Disclaimer
 This is for a law school project. Please do not use for any reason. 
 
-The problem facing real estate investors is that if they want to submit a large amount of offers they either need a lawyer to draft them each time or manually input the details themselves. This can be costly in addition to being error prone. A simple system will eliminate the need for a lawyer for contract drafting and reduce the possibility of a mistake. 
-
 ## General Overview
 
 The original goal of this project was to automate the "Drop LLC" process during real estate transactions in Cuyahoga County, Ohio. As we spoke in class this was an ambitious scope and after getting my hands dirty I decided to narrow to automating the purchase and sale agreement only. This eliminates the need for a lawyer only to draft a contract and reduces the possibily of a typo if the investor is writing one themselves. Before starting any development I had to get more familiar with the component pieces of a purchase and sale agreement. I reviewed past transactions and consolidated several elements into one standard contract. From there I had to identify the variables in the contract (parcel, seller, price etc). I made some design decisions on what was a true variable and what was not (for example the industry custom on how parties normally split title charges etc in 4.05). This also simplified the first version so I can have a working product for Eric. 
